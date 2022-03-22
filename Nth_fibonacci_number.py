@@ -9,4 +9,4 @@ def fib(n):
 
 
 n = int(input())
-print(fib(n)) 
+print(fib(n))
